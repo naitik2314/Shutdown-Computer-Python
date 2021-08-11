@@ -1,0 +1,2 @@
+# Shutdown-Computer-Python
+This code has a lot of potential, you can implement it on your chatbot, or else, let's say there is a software installation going on, and you have to go out somewhere, well keeping the computer on all the time till you come back is a waste of resources, so you can increase the seconds in this code, and the computer will automatically shut down after that time, you can estimate how much time will the installation will take.
